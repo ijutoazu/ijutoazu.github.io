@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijutoazu.github.io/OeT/sitemap_index.txt
+Sitemap: https://ijutoazu.github.io/lTb/sitemap_index.txt
+Sitemap: https://ijutoazu.github.io/nQt/sitemap_index.txt
+Sitemap: https://ijutoazu.github.io/tuk/sitemap_index.txt
